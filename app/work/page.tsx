@@ -1,12 +1,7 @@
-import { BlogPosts } from "app/components/posts";
-
 export default function Page() {
   return (
     <section>
-      <h1 className=" text-2xl font-semibold tracking-tighter">Omar McAdam</h1>
-      <h2 className="mb-8 text-xl font-light tracking-tighter italic">
-        a.k.a McPizza
-      </h2>
+      <h1 className="mb-8 text-2xl font-semibold tracking-tighter">Work</h1>
       <p className="mb-4">
         {`I'm a Vim enthusiast and tab advocate, finding unmatched efficiency in
         Vim's keystroke commands and tabs' flexibility for personal viewing
@@ -14,9 +9,7 @@ export default function Page() {
         early error detection ensures cleaner code, and my preference for dark
         mode, which eases long coding sessions by reducing eye strain.`}
       </p>
-      <div className="my-8">
-        <BlogPosts />
-      </div>
+      <div className="my-8"></div>
     </section>
   );
 }

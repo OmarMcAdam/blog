@@ -3,17 +3,34 @@ import { BlogPosts } from "app/components/posts";
 export default function Page() {
   return (
     <section>
-      <h1 className=" text-2xl font-semibold tracking-tighter">Omar McAdam</h1>
-      <h2 className="mb-8 text-xl font-light tracking-tighter italic">
-        a.k.a McPizza
-      </h2>
-      <p className="mb-4">
-        {`I'm a Vim enthusiast and tab advocate, finding unmatched efficiency in
-        Vim's keystroke commands and tabs' flexibility for personal viewing
-        preferences. This extends to my support for static typing, where its
-        early error detection ensures cleaner code, and my preference for dark
-        mode, which eases long coding sessions by reducing eye strain.`}
+      <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
+        Omar McAdam
+        <span className="ml-4 text-xl font-light tracking-tighter italic">
+          a.k.a McPizza
+        </span>
+      </h1>
+      <p className=" mb-4 italic">
+        Founder, Builder, Tinkerer, Developer, & Pizza lover.
       </p>
+      <div className="flex flex-col mb-4 text-sm">
+        <p className="">I make things.</p>
+        <p className="">Digital things.</p>
+        <p className="">Physical things.</p>
+        <p className="">They either work or don't.</p>
+      </div>
+      <div className="flex flex-col mb-4 text-sm">
+        <p className="">I'm always curious.</p>
+        <p className="">About what could be.</p>
+        <p className="">How it could be.</p>
+        <p className="">Why it isn't already.</p>
+      </div>
+      <div className="flex flex-col mb-4 text-sm">
+        <p className="">I build to answer questions.</p>
+        <p className="">Tinker to learn something new.</p>
+        <p className="">Develop to solve problems.</p>
+        <p className="">And eat pizza because its the best.</p>
+      </div>
+
       <div className="my-8">
         <BlogPosts />
       </div>

@@ -181,17 +181,17 @@ const RoleDisplay = ({ role }) => {
       <div className="flex justify-between items-baseline mb-2">
         <div>
           <h3 className="text-lg font-semibold">{role.title}</h3>
-          <p className=" text-gray-700">{role.company}</p>
+          <p className=" text-gray-700 dark:text-gray-200">{role.company}</p>
         </div>
-        <span className="text-gray-500">{role.year}</span>
+        <span className="text-gray-500 dark:text-gray-200 ">{role.year}</span>
       </div>
 
-      <p className="text-gray-800 mb-2">{role.summary}</p>
+      <p className="text-gray-800 dark:text-gray-200  mb-2">{role.summary}</p>
 
       {role.points && role.points.length > 0 && (
         <ul className="list-disc list-outside ml-5 space-y-1">
           {role.points.map((point, index) => (
-            <li key={index} className="text-gray-700">
+            <li key={index} className="text-gray-700 dark:text-gray-200 ">
               {point}
             </li>
           ))}

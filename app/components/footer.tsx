@@ -1,4 +1,6 @@
-function ArrowIcon() {
+import { EmailCopy } from "./emailcopy";
+
+export function ArrowIcon() {
   return (
     <svg
       width="12"
@@ -37,7 +39,9 @@ export default function Footer() {
       <ul className="font-sm mt-8 flex flex-col space-x-0 space-y-2 text-neutral-600 md:flex-row md:space-x-4 md:space-y-0 dark:text-neutral-300">
         <FooterLink link="https://github.com/McPizza0" label="github" />
         <FooterLink link="https://x.com/McPizza0" label="x/twitter" />
-        <FooterLink link="/rss" label="rss" />
+        <EmailCopy email="omar@mcadam.io" />
+        <FooterLink link="https://cal.com/chat" label="cal(endar)" />
+        {/* <FooterLink link="/rss" label="rss" /> */}
       </ul>
 
       <p className="mt-8 text-neutral-600 dark:text-neutral-300">

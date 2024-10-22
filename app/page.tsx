@@ -31,9 +31,7 @@ export default function Page() {
         <p className="">And eat pizza because its the best.</p>
       </div>
 
-      <div className="my-8">
-        <BlogPosts />
-      </div>
+      <div className="my-8">{/* <BlogPosts /> */}</div>
     </section>
   );
 }

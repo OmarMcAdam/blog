@@ -40,7 +40,7 @@ export default function Footer() {
         <FooterLink link="https://github.com/McPizza0" label="github" />
         <FooterLink link="https://x.com/McPizza0" label="x/twitter" />
         <EmailCopy email="omar@mcadam.io" />
-        <FooterLink link="https://cal.com/chat" label="cal(endar)" />
+        <FooterLink link="https://cal.com/mc" label="cal(endar)" />
         {/* <FooterLink link="/rss" label="rss" /> */}
       </ul>
 

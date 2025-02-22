@@ -37,8 +37,8 @@ export default function Footer() {
   return (
     <footer className="mb-16">
       <ul className="font-sm mt-8 flex flex-col space-x-0 space-y-2 text-neutral-600 md:flex-row md:space-x-4 md:space-y-0 dark:text-neutral-300">
-        <FooterLink link="https://github.com/McPizza0" label="github" />
-        <FooterLink link="https://x.com/McPizza0" label="x/twitter" />
+        <FooterLink link="https://github.com/OmarMcAdam" label="github" />
+        <FooterLink link="https://x.com/OmarMcAdam" label="x/twitter" />
         <EmailCopy email="omar@mcadam.io" />
         <FooterLink link="https://cal.com/mc" label="cal(endar)" />
         {/* <FooterLink link="/rss" label="rss" /> */}

@@ -5,12 +5,13 @@ export default function Page() {
     <section>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
         Omar McAdam
-        <span className="ml-4 text-xl font-light tracking-tighter italic">
-          a.k.a McPizza
-        </span>
+        
       </h1>
+      <span className="ml-4 text-xl font-light tracking-tighter italic">
+          alsp previously known as McPizza
+        </span>
       <p className=" mb-4 italic">
-        Founder, Builder, Tinkerer, Developer, & Pizza lover.
+        Founder, Builder, Tinkerer, Developer, & ex Pizza lover.
       </p>
       <div className="flex flex-col mb-4 text-sm">
         <p className="">I make things.</p>

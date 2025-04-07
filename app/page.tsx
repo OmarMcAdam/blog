@@ -8,7 +8,7 @@ export default function Page() {
         
       </h1>
       <span className="ml-4 text-xl font-light tracking-tighter italic">
-          alsp previously known as McPizza
+        previously known as McPizza
         </span>
       <p className=" mb-4 italic">
         Founder, Builder, Tinkerer, Developer, & ex Pizza lover.

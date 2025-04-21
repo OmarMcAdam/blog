@@ -5,7 +5,6 @@ export default function Page() {
     <section>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
         Omar McAdam
-        
       </h1>
       <span className="ml-4 text-xl font-light tracking-tighter italic">
         also known as McPizza

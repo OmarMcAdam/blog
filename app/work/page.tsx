@@ -6,7 +6,7 @@ export default function Page() {
       year: "October 2023–November 2024",
       link: "https://github.com/un/inbox",
       summary:
-        "A fully open-source, standalone email platform — architected and built from scratch",
+        "A fully open-source, standalone email platform as a slack/productivity experience — designed, architected and built from scratch",
       points: [
         "70,000+ emails processed with 99.99% uptime",
         "Reimagined email as a chat-like experience with live updates and syncless storage",

@@ -13,7 +13,6 @@ import {
   professionalProfile,
   profileHeadline,
   profileLinks,
-  profileLocation,
   profileName,
   publicRecognition,
   roles,
@@ -35,9 +34,6 @@ export default function Page() {
         </h1>
         <p className="mt-2 text-lg text-gray-800 dark:text-gray-200 print:text-black">
           {profileHeadline}
-        </p>
-        <p className="mt-2 text-sm text-gray-600 dark:text-gray-300 print:text-neutral-700">
-          {profileLocation}
         </p>
 
         <div className="mt-4 flex flex-wrap gap-x-4 gap-y-2 text-sm print:gap-x-3">

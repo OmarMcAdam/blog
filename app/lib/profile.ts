@@ -19,7 +19,6 @@ export type Role = {
   title: string;
   company: string;
   year: string;
-  location?: string;
   summary: string;
   points: string[];
 };
@@ -33,8 +32,6 @@ export type EvidenceSection = {
 export const profileName = "Omar McAdam";
 export const profileHeadline =
   "Founder | Founding Engineer | Open Source and Healthtech Builder";
-export const profileLocation =
-  "San Francisco, California, United States (open to remote)";
 
 export const profileLinks = [
   { label: "Website", href: "https://mcadam.io" },
@@ -242,7 +239,6 @@ export const roles: Role[] = [
     title: "Founder and Chief Meme Officer",
     company: "Unproprietary Corporation",
     year: "Feb 2024-Present",
-    location: "San Francisco, California, United States · Remote",
     summary:
       "Founder of an open-source product studio focused on AI, health, developer tooling, and community-led company building.",
     points: [
@@ -255,7 +251,6 @@ export const roles: Role[] = [
     title: "Founding Engineer",
     company: "Legion Health",
     year: "Jun 2025-Jan 2026",
-    location: "Austin, Texas, United States · Remote",
     summary:
       "Built clinical and operational product systems for an AI-native telepsychiatry company expanding access to psychiatric care.",
     points: [
@@ -268,7 +263,6 @@ export const roles: Role[] = [
     title: "Founding Engineer",
     company: "Stealth: Health x AI",
     year: "Mar 2025-Jul 2025",
-    location: "San Francisco, California, United States · Remote",
     summary:
       "Founding product engineer for a personalized health platform across AI, full-stack web, and mobile systems.",
     points: [
@@ -280,7 +274,6 @@ export const roles: Role[] = [
     title: "Founding Product Engineer",
     company: "UnInbox",
     year: "Oct 2023-Nov 2024",
-    location: "Fully Remote",
     summary:
       "Built and led development of an open-source email platform that reframed email as programmable, collaborative infrastructure.",
     points: [
@@ -293,7 +286,6 @@ export const roles: Role[] = [
     title: "Product Manager and Team Lead",
     company: "ClickUp",
     year: "Mar 2021-Apr 2022",
-    location: "San Diego, California, United States · Remote",
     summary:
       "Led product development and engineering teams focused on core platform quality, scale, and execution during hypergrowth.",
     points: [
@@ -307,7 +299,6 @@ export const roles: Role[] = [
     title: "Lead Product Manager - B2B SaaS/PaaS",
     company: "FO HQ Streaming Ltd",
     year: "Jul 2020-Feb 2021",
-    location: "London, UK · Remote",
     summary:
       "Built and launched a streaming platform and hardware stack from scratch for business users with minimal technical overhead.",
     points: [
@@ -320,7 +311,6 @@ export const roles: Role[] = [
     title: "Product Manager - Internal Tools",
     company: "Essentis HRI",
     year: "2018-2019",
-    location: "Berlin, Germany",
     summary:
       "Drove internal tooling and automation initiatives that materially improved signup performance and operating efficiency.",
     points: [
@@ -333,7 +323,6 @@ export const roles: Role[] = [
     title: "Product Manager - B2C Hardware",
     company: "WBS Training AG",
     year: "2018",
-    location: "Berlin, Germany",
     summary:
       "Led development of integrated hardware and software training systems from concept through production handoff.",
     points: [
@@ -346,7 +335,6 @@ export const roles: Role[] = [
     title: "Co-Founder - B2B Service",
     company: "C.Network",
     year: "2016-2017",
-    location: "Berlin, Germany",
     summary:
       "Led a tech startup from concept through MVP and a successful pivot driven by market data.",
     points: [
@@ -359,7 +347,6 @@ export const roles: Role[] = [
     title: "Product Manager - B2C Service and Internal Tools",
     company: "Essentis Biohotel Berlin",
     year: "2015-2016",
-    location: "Berlin, Germany",
     summary:
       "Led digital transformation work across hotel operations and guest experience.",
     points: [
@@ -372,7 +359,6 @@ export const roles: Role[] = [
     title: "Founder",
     company: "NGOSaaS",
     year: "2014",
-    location: "London, UK",
     summary:
       "Built and exited a SaaS platform for NGO campaign and donation management.",
     points: [],
@@ -381,7 +367,6 @@ export const roles: Role[] = [
     title: "Datacenter Consultant",
     company: "Sub contractor",
     year: "2013",
-    location: "London, UK",
     summary:
       "Led design and implementation of a new datacenter facility, coordinating vendors and technical specifications.",
     points: [],
@@ -390,7 +375,6 @@ export const roles: Role[] = [
     title: "Technical Consultant",
     company: "Netlogic Consulting Limited",
     year: "2009",
-    location: "London, UK",
     summary:
       "Directed large-scale IT infrastructure projects including a 300-seat call center upgrade and service-management compliance work.",
     points: [],
@@ -399,7 +383,6 @@ export const roles: Role[] = [
     title: "Technology Manager",
     company: "Westgate Media and Broadcast Limited",
     year: "2006",
-    location: "London, UK",
     summary:
       "Managed IT and video infrastructure for a production facility requiring 24/7 broadcast reliability.",
     points: [],
@@ -408,7 +391,6 @@ export const roles: Role[] = [
     title: "Co-Founder",
     company: "EGYComp Training Center",
     year: "2003",
-    location: "Cairo, Egypt",
     summary:
       "Co-founded a Microsoft certification training center, developed curriculum, and delivered technical courses.",
     points: [],
@@ -417,7 +399,6 @@ export const roles: Role[] = [
     title: "IT Support",
     company: "Netlogic Consulting Limited",
     year: "2002",
-    location: "London, UK",
     summary:
       "Provided enterprise network infrastructure support for consulting clients.",
     points: [],

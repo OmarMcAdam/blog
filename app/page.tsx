@@ -3,7 +3,6 @@ import Link from "next/link";
 import {
   homeIntro,
   profileHeadline,
-  profileLocation,
   profileName,
   quickFacts,
 } from "app/lib/profile";
@@ -17,10 +16,6 @@ export default function Page() {
       <p className="mb-2 text-lg text-gray-800 dark:text-gray-200">
         {profileHeadline}
       </p>
-      <p className="mb-8 text-sm italic text-gray-600 dark:text-gray-300">
-        {profileLocation}
-      </p>
-
       <div className="mb-8 space-y-4">
         {homeIntro.map((paragraph) => (
           <p key={paragraph}>{paragraph}</p>

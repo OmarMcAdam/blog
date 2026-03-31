@@ -1,8 +1,6 @@
 # Omar McAdam
 Founder | Founding Engineer | Open Source and Healthtech Builder
 
-San Francisco, California, United States (open to remote)
-
 - Website: https://mcadam.io
 - GitHub: https://github.com/OmarMcadam
 - X: https://x.com/OmarMcAdam
@@ -61,7 +59,7 @@ His profile is distinguished by original product creation, recognized open-sourc
 ## Professional Experience
 
 ### Founder and Chief Meme Officer | Unproprietary Corporation
-Feb 2024-Present | San Francisco, California, United States | Remote
+Feb 2024-Present
 
 Open-source product studio and umbrella for AI, health, developer tooling, and founder community work.
 
@@ -70,7 +68,7 @@ Open-source product studio and umbrella for AI, health, developer tooling, and f
 - Advise startups and founders on open-source commercialization, email infrastructure, AI systems, and product strategy.
 
 ### Founding Engineer | Legion Health
-Jun 2025-Jan 2026 | Austin, Texas, United States | Remote
+Jun 2025-Jan 2026
 
 Built clinical and operational systems for an AI-native telepsychiatry company using LLMs and workflow automation to improve access, efficiency, and patient experience.
 
@@ -79,7 +77,7 @@ Built clinical and operational systems for an AI-native telepsychiatry company u
 - Helped lead the move to Legion AI and the product systems that supported Utah expansion and AI prescription facilitation.
 
 ### Founding Engineer | Stealth: Health x AI
-Mar 2025-Jul 2025 | San Francisco, California, United States | Remote
+Mar 2025-Jul 2025
 
 Founding product engineer for a personalized health system spanning AI, backend systems, web product, and mobile.
 
@@ -87,7 +85,7 @@ Founding product engineer for a personalized health system spanning AI, backend 
 - Owned architecture and end-to-end delivery across core product surfaces.
 
 ### Founding Product Engineer | UnInbox
-Oct 2023-Nov 2024 | Fully Remote
+Oct 2023-Nov 2024
 
 Built and led development of an open-source email platform that reimagined email as programmable, collaborative infrastructure.
 
@@ -96,7 +94,7 @@ Built and led development of an open-source email platform that reimagined email
 - Grew the product to 5,000+ users and an active open-source contributor base.
 
 ### Product Manager and Team Lead | ClickUp
-Mar 2021-Apr 2022 | San Diego, California, United States | Remote
+Mar 2021-Apr 2022
 
 Led product development and engineering teams focused on core platform features during a period of rapid company scale.
 
@@ -107,7 +105,7 @@ Led product development and engineering teams focused on core platform features 
 - Grew teams from 4 to 15 people while maintaining regular product delivery.
 
 ### Lead Product Manager - B2B SaaS/PaaS | FO HQ Streaming Ltd
-Jul 2020-Feb 2021 | London, UK | Remote
+Jul 2020-Feb 2021
 
 Built and launched a streaming platform from scratch, combining hardware and software for business users.
 
@@ -116,7 +114,7 @@ Built and launched a streaming platform from scratch, combining hardware and sof
 - Led remote product and engineering teams to ship 30+ core features.
 
 ### Product Manager - Internal Tools | Essentis HRI
-2018-2019 | Berlin, Germany
+2018-2019
 
 Led internal tools and workflow automation initiatives.
 
@@ -125,7 +123,7 @@ Led internal tools and workflow automation initiatives.
 - Hired and led a remote engineering team across three time zones, shipping 50+ features.
 
 ### Product Manager - B2C Hardware | WBS Training AG
-2018 | Berlin, Germany
+2018
 
 Led development of integrated hardware and software training systems from concept to production.
 
@@ -134,7 +132,7 @@ Led development of integrated hardware and software training systems from concep
 - Managed the full product cycle from research and specification through prototype and manufacturing handoff.
 
 ### Co-Founder - B2B Service | C.Network
-2016-2017 | Berlin, Germany
+2016-2017
 
 Led a tech startup from concept through MVP and strategic pivot.
 
@@ -143,7 +141,7 @@ Led a tech startup from concept through MVP and strategic pivot.
 - Designed the technical architecture and selected the technology stack for scale.
 
 ### Product Manager - B2C Service and Internal Tools | Essentis Biohotel Berlin
-2015-2016 | Berlin, Germany
+2015-2016
 
 Led digital transformation of hotel operations and guest experience.
 
@@ -152,32 +150,32 @@ Led digital transformation of hotel operations and guest experience.
 - Created internal tools to streamline hotel operations with the development team.
 
 ### Founder | NGOSaaS
-2014 | London, UK
+2014
 
 Built and successfully exited a SaaS platform for NGO campaign and donation management.
 
 ### Datacenter Consultant | Sub contractor
-2013 | London, UK
+2013
 
 Led design and implementation of a new datacenter facility, including vendor relationships and technical specifications.
 
 ### Technical Consultant | Netlogic Consulting Limited
-2009 | London, UK
+2009
 
 Led large-scale IT infrastructure projects including a 300-seat call center upgrade and implementation of ISO/IEC 20000-aligned service management processes.
 
 ### Technology Manager | Westgate Media and Broadcast Limited
-2006 | London, UK
+2006
 
 Managed IT and video infrastructure for a production environment requiring 24/7 broadcast capability.
 
 ### Co-Founder | EGYComp Training Center
-2003 | Cairo, Egypt
+2003
 
 Established and ran a Microsoft certification training center, including curriculum development and course delivery.
 
 ### IT Support | Netlogic Consulting Limited
-2002 | London, UK
+2002
 
 Provided network infrastructure support for enterprise clients.
 

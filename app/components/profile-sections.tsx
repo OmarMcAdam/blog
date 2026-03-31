@@ -116,7 +116,6 @@ export function ExperienceSection({ roles }: { roles: Role[] }) {
               <div>
                 <CardTitle>{role.title}</CardTitle>
                 <MetaLine>{role.company}</MetaLine>
-                {role.location && <MetaLine>{role.location}</MetaLine>}
               </div>
               <span className="text-right text-gray-500 dark:text-gray-200">
                 {role.year}

@@ -148,3 +148,38 @@ table {
 .title {
   text-wrap: balance;
 }
+
+.print-avoid-break {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+@media print {
+  html,
+  body {
+    background: #fff !important;
+    color: #000 !important;
+  }
+
+  body {
+    max-width: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    font-size: 12px;
+    line-height: 1.45;
+  }
+
+  main {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  section {
+    max-width: none !important;
+  }
+
+  a {
+    color: #000 !important;
+    text-decoration: none !important;
+  }
+}

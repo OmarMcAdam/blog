@@ -58,7 +58,7 @@ His profile is distinguished by original product creation, recognized open-sourc
 
 ## Professional Experience
 
-### Founder and Chief Meme Officer | Unproprietary Corporation
+### Founder | Unproprietary Corporation
 Feb 2024-Present
 
 Open-source product studio and umbrella for AI, health, developer tooling, and founder community work.

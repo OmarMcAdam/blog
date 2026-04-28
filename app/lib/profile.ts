@@ -91,7 +91,7 @@ export const highlights: Highlight[] = [
     linkLabel: "Press coverage",
   },
   {
-    title: "Founder and Chief Meme Officer",
+    title: "Founder",
     company: "Unproprietary Corporation",
     year: "Feb 2024-Present",
     summary:
@@ -236,7 +236,7 @@ export const technicalFocus = [
 
 export const roles: Role[] = [
   {
-    title: "Founder and Chief Meme Officer",
+    title: "Founder",
     company: "Unproprietary Corporation",
     year: "Feb 2024-Present",
     summary:

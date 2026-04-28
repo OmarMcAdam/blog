@@ -78,7 +78,7 @@ export const highlights: Highlight[] = [
   {
     title: "Founding Engineer",
     company: "Legion Health",
-    year: "Jun 2025-Jan 2026",
+    year: "Jun 2025-Feb 2026",
     summary:
       "Built core product and AI systems for an AI-native telepsychiatry clinic, helping turn frontier-model workflows into real clinical operations.",
     points: [
@@ -250,7 +250,7 @@ export const roles: Role[] = [
   {
     title: "Founding Engineer",
     company: "Legion Health",
-    year: "Jun 2025-Jan 2026",
+    year: "Jun 2025-Feb 2026",
     summary:
       "Built clinical and operational product systems for an AI-native telepsychiatry company expanding access to psychiatric care.",
     points: [

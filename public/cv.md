@@ -68,7 +68,7 @@ Open-source product studio and umbrella for AI, health, developer tooling, and f
 - Advise startups and founders on open-source commercialization, email infrastructure, AI systems, and product strategy.
 
 ### Founding Engineer | Legion Health
-Jun 2025-Jan 2026
+Jun 2025-Feb 2026
 
 Built clinical and operational systems for an AI-native telepsychiatry company using LLMs and workflow automation to improve access, efficiency, and patient experience.
 

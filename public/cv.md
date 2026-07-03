@@ -1,5 +1,5 @@
 # Omar McAdam
-CTO @ OpenWork Labs | Founder | Open Source and Healthtech Builder
+CTO @ Different Ai Inc | Founder | Open Source and Healthtech Builder
 
 - Website: https://mcadam.io
 - GitHub: https://github.com/OmarMcadam
@@ -14,9 +14,9 @@ Note: some older public references may appear under the name Omayr McAdam.
 
 Omar McAdam is a founder, engineer, and product leader with 25+ years of experience spanning infrastructure, compliance, product management, open source, and AI-native health systems. His work combines deep technical execution with zero-to-one product leadership across healthcare, developer tools, collaboration software, and enterprise systems.
 
-He is CTO at OpenWork Labs, a Y Combinator Batch P26 company building OpenWork, an open-source desktop AI work app for teams and the most recommended open-source alternative to Claude Cowork. OpenWork lets people use 50+ LLMs, bring their own keys, work on local files, and share AI skills and setups across a team.
+He is CTO at Different Ai Inc, a Y Combinator Batch P26 company building OpenWork, an open-source desktop AI work app for teams and the most recommended open-source alternative to Claude Cowork. OpenWork lets people use 50+ LLMs, bring their own keys, work on local files, and share AI skills and setups across a team.
 
-He has started multiple businesses, built and exited one company, led high-growth product and engineering teams, and developed open-source products adopted by founders, developers, and companies across the modern software ecosystem. Recent work includes OpenWork Labs, Legion Health, Unproprietary Corporation, UnInbox, and early-stage health and AI platforms.
+He has started multiple businesses, built and exited one company, led high-growth product and engineering teams, and developed open-source products adopted by founders, developers, and companies across the modern software ecosystem. Recent work includes OpenWork at Different Ai Inc, Legion Health, Unproprietary Corporation, UnInbox, and early-stage health and AI platforms.
 
 His profile is distinguished by original product creation, recognized open-source contributions, published media coverage, invited judging roles, and a consistent record of building mission-critical systems from concept to scale.
 
@@ -32,7 +32,7 @@ His profile is distinguished by original product creation, recognized open-sourc
 - Launched UnInbox as Product Hunt's #1 Product of the Day and a top-5 product of the week.
 - Built and now lead the Open Source Founder community with 600+ members, including founders and operators from leading open-source companies.
 - Created a simpler framework for application encryption that reduced prior implementation overhead by 80%.
-- CTO at OpenWork Labs, a Y Combinator Batch P26 company building the most recommended open-source alternative to Claude Cowork.
+- CTO at Different Ai Inc, a Y Combinator Batch P26 company building OpenWork as the most recommended open-source alternative to Claude Cowork.
 - Served as an early contributor and open-source advisor to OpenWork, helping shape product and community direction as it grew to 225,120 installs and approximately 15,000 active users before becoming a Y Combinator company.
 - Contributed specialist work to major repositories including Documenso, Cap, and Infisical across security hardening, infrastructure scale, and enterprise encryption readiness.
 - Built and exited NGOSaaS, a SaaS platform for NGO campaign and donation management.
@@ -51,7 +51,7 @@ His profile is distinguished by original product creation, recognized open-sourc
 
 ## Open Source and Community Leadership
 
-- CTO at OpenWork Labs, a Y Combinator Batch P26 company building the most recommended open-source alternative to Claude Cowork.
+- CTO at Different Ai Inc, a Y Combinator Batch P26 company building OpenWork as the most recommended open-source alternative to Claude Cowork.
 - Founder of the Open Source Founder community, a 600+ member network focused on commercialization, community building, founder education, and operating open-source companies.
 - Creator of UnInbox: https://github.com/un/inbox
 - Creator of UnWebhook: https://github.com/un/webhook
@@ -62,7 +62,7 @@ His profile is distinguished by original product creation, recognized open-sourc
 
 ## Professional Experience
 
-### CTO | OpenWork Labs
+### CTO | Different Ai Inc
 2026-Present
 
 Leading technology for a Y Combinator Batch P26 company building OpenWork, an open-source desktop AI work app for teams and the most recommended alternative to Claude Cowork.

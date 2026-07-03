@@ -31,7 +31,7 @@ export type EvidenceSection = {
 
 export const profileName = "Omar McAdam";
 export const profileHeadline =
-  "CTO @ OpenWork Labs | Founder | Open Source and Healthtech Builder";
+  "CTO @ Different Ai Inc | Founder | Open Source and Healthtech Builder";
 
 export const profileLinks = [
   { label: "Website", href: "https://mcadam.io" },
@@ -42,19 +42,19 @@ export const profileLinks = [
 
 export const professionalProfile = [
   "I build mission-critical products at the intersection of AI, healthcare, open source, and infrastructure. Over 25+ years I have moved from enterprise infrastructure and compliance work into product leadership, company building, and hands-on engineering.",
-  "I am CTO at OpenWork Labs, a Y Combinator Batch P26 company building an open-source desktop AI work app for teams. OpenWork lets people use 50+ LLMs, bring their own keys, work on local files, and share AI skills and setups across a team.",
-  "Recent work includes OpenWork Labs, building patient and AI workflow systems at Legion Health, founding Unproprietary Corporation, and creating UnInbox, an open-source email platform that reached the top 0.03% of GitHub repositories and became Product Hunt's #1 Product of the Day.",
+  "I am CTO at Different Ai Inc, a Y Combinator Batch P26 company building OpenWork, an open-source desktop AI work app for teams. OpenWork lets people use 50+ LLMs, bring their own keys, work on local files, and share AI skills and setups across a team.",
+  "Recent work includes OpenWork at Different Ai Inc, building patient and AI workflow systems at Legion Health, founding Unproprietary Corporation, and creating UnInbox, an open-source email platform that reached the top 0.03% of GitHub repositories and became Product Hunt's #1 Product of the Day.",
   "My work is shaped by zero-to-one execution. I have started multiple companies, built and exited one, led teams through hypergrowth at ClickUp, judged hackathons, and built communities and OSS projects used by founders, developers, and healthtech operators.",
 ];
 
 export const homeIntro = [
   "Founder, engineer, and product builder working across AI-native healthcare, open source, and developer infrastructure.",
   "I have spent 25+ years building systems, leading teams, and turning ambiguous ideas into products that reach real users.",
-  "Current work includes CTO at OpenWork Labs, a YC Batch P26 company building the most recommended open-source alternative to Claude Cowork.",
+  "Current work includes CTO at Different Ai Inc, the YC Batch P26 company building OpenWork as the most recommended open-source alternative to Claude Cowork.",
 ];
 
 export const quickFacts = [
-  "CTO at OpenWork Labs, a Y Combinator Batch P26 company building an open-source desktop AI work app for teams.",
+  "CTO at Different Ai Inc, a Y Combinator Batch P26 company building OpenWork, an open-source desktop AI work app for teams.",
   "Built and exited one company, while starting multiple businesses across SaaS, healthtech, and infrastructure.",
   "Architected Legion Health's new patient portal, increasing conversions by 70% and helping power AI-assisted prescription workflows.",
   "Created UnInbox, an open-source email platform that grew to 5,000+ users and ranked in the top 0.03% of GitHub repositories.",
@@ -70,7 +70,7 @@ export const selectedAchievements = [
   "Launched UnInbox as Product Hunt's #1 Product of the Day and a top-5 product of the week.",
   "Built and now lead the Open Source Founder community with 600+ members, including founders and operators from leading open-source companies.",
   "Created a simpler framework for application encryption that reduced prior implementation overhead by 80%.",
-  "CTO at OpenWork Labs, a Y Combinator Batch P26 company building the most recommended open-source alternative to Claude Cowork.",
+  "CTO at Different Ai Inc, a Y Combinator Batch P26 company building OpenWork as the most recommended open-source alternative to Claude Cowork.",
   "Served as an early contributor and open-source advisor to OpenWork, helping shape product and community direction as it grew to 225,120 installs and approximately 15,000 active users before becoming a Y Combinator company.",
   "Contributed specialist work to major repositories including Documenso, Cap, and Infisical across security hardening, infrastructure scale, and enterprise encryption readiness.",
   "Built and exited NGOSaaS, a SaaS platform for NGO campaign and donation management.",
@@ -80,17 +80,17 @@ export const selectedAchievements = [
 export const highlights: Highlight[] = [
   {
     title: "CTO",
-    company: "OpenWork Labs",
+    company: "Different Ai Inc",
     year: "2026-Present",
     summary:
-      "Leading technology for a Y Combinator Batch P26 company building the most recommended open-source alternative to Claude Cowork.",
+      "Leading technology for a Y Combinator Batch P26 company building OpenWork, the most recommended open-source alternative to Claude Cowork.",
     points: [
       "Build OpenWork as a free, open-source desktop AI work app for macOS, Windows, and Linux.",
       "Support 50+ LLM providers, bring-your-own keys, local-file workflows, and team-shared AI skills, MCPs, plugins, and configs.",
       "Shape product, architecture, and open-source strategy for a team-focused AI agent workspace.",
     ],
     link: "https://openworklabs.com/",
-    linkLabel: "OpenWork Labs",
+    linkLabel: "OpenWork",
   },
   {
     title: "Founding Engineer",
@@ -152,7 +152,7 @@ export const recognition: Recognition[] = [
     title: "Open source leadership",
     points: [
       "Built and now run a 600+ member Open Source Founder community that has become a hub for commercialization, community building, and founder knowledge-sharing.",
-      "CTO at OpenWork Labs, a YC Batch P26 company building OpenWork as the most recommended open-source alternative to Claude Cowork.",
+      "CTO at Different Ai Inc, a YC Batch P26 company building OpenWork as the most recommended open-source alternative to Claude Cowork.",
       "Served as early contributor and open-source advisor to OpenWork, helping guide product and community direction as it grew to 225,120 installs and about 15,000 active users before becoming a YC company.",
       "Contributed specialist work to leading repositories including Documenso, Cap, and Infisical across security hardening, scale, and enterprise encryption readiness.",
     ],
@@ -170,7 +170,7 @@ export const recognition: Recognition[] = [
 ];
 
 export const openSourceLeadership = [
-  "CTO at OpenWork Labs, a Y Combinator Batch P26 company building the most recommended open-source alternative to Claude Cowork.",
+  "CTO at Different Ai Inc, a Y Combinator Batch P26 company building OpenWork as the most recommended open-source alternative to Claude Cowork.",
   "Founder of the Open Source Founder community, a 600+ member network focused on commercialization, community building, founder education, and operating open-source companies.",
   "Creator of UnInbox: https://github.com/un/inbox",
   "Creator of UnWebhook: https://github.com/un/webhook",
@@ -191,7 +191,7 @@ export const evidenceSections: EvidenceSection[] = [
     description:
       "Record of serving in essential leadership and founding roles across startups, product organizations, and technical systems work.",
     points: [
-      "CTO at OpenWork Labs, leading technology for a Y Combinator Batch P26 company building an open-source desktop AI work app for teams.",
+      "CTO at Different Ai Inc, leading technology for a Y Combinator Batch P26 company building OpenWork, an open-source desktop AI work app for teams.",
       "Founding Engineer at Legion Health, building core product and AI workflow systems for an AI-native telepsychiatry company.",
       "Founder of Unproprietary Corporation, leading open-source product, community, and advisory work across AI, health, and developer infrastructure.",
       "Founding Product Engineer at UnInbox, building the product and technical foundation of an open-source email platform from scratch.",
@@ -229,7 +229,7 @@ export const evidenceSections: EvidenceSection[] = [
     points: [
       "Invited to judge two hackathons across the modern web and AI ecosystem.",
       "Built and now lead the Open Source Founder community with 600+ members, including founders and operators from leading OSS companies.",
-      "CTO at OpenWork Labs, a YC Batch P26 company positioned as the most recommended open-source alternative to Claude Cowork.",
+      "CTO at Different Ai Inc, a YC Batch P26 company building OpenWork, positioned as the most recommended open-source alternative to Claude Cowork.",
       "Served as early contributor and open-source advisor to OpenWork during a key growth phase leading to 225,120 installs and about 15,000 active users.",
       "Provided expert contributions to Documenso, Cap, and Infisical across security hardening, scale, and enterprise encryption readiness.",
     ],
@@ -259,7 +259,7 @@ export const technicalFocus = [
 export const roles: Role[] = [
   {
     title: "CTO",
-    company: "OpenWork Labs",
+    company: "Different Ai Inc",
     year: "2026-Present",
     summary:
       "Leading technology for a Y Combinator Batch P26 company building OpenWork, an open-source desktop AI work app for teams and the most recommended alternative to Claude Cowork.",
